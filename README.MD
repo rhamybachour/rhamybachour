@@ -44,3 +44,6 @@
 [![CPU-Project](https://github-readme-stats.vercel.app/api/pin/?username=rhamybachour&repo=CPU-Project)](https://github.com/rhamybachour/CPU-Project)
 
 [![Porta-Automatica](https://github-readme-stats.vercel.app/api/pin/?username=rhamybachour&repo=Porta-Automatica)](https://github.com/rhamybachour/Porta-Automatica)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhamybachour&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
