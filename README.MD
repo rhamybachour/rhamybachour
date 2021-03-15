@@ -40,5 +40,7 @@
                 width="28" /> My Projects</h2></summary>
                 
 [![DB-Project](https://github-readme-stats.vercel.app/api/pin/?username=rhamybachour&repo=DB-Project)](https://github.com/rhamybachour/DB-Project)
+
 [![CPU-Project](https://github-readme-stats.vercel.app/api/pin/?username=rhamybachour&repo=CPU-Project)](https://github.com/rhamybachour/CPU-Project)
+
 [![Porta-Automatica](https://github-readme-stats.vercel.app/api/pin/?username=rhamybachour&repo=Porta-Automatica)](https://github.com/rhamybachour/Porta-Automatica)
