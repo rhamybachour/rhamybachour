@@ -1,9 +1,9 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
-<h3 align="center">Hello everybody, I'm <a href="https://freshidea.com/jonah/">Rhamy</a> -  a Mechatronic Engineer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+<h1><p align="center">Hello, I'm Rhamy Salim Bachour! <a href="https://github.com/rhamybachour/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
+<p align="center" ><img 
+ src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="40%"/></p>
 
 ## 📖 About me
 
 * 💻 I'm a Mechatronic Engineer graduated in August 2020
-* 🎨 I'm a self-taught developer
+* 🎨 I'm a self-taught enthusiastic developer
 * 🌐 You can see some of my projects on [my portfolio](https://github.com/rhamybachour/)
